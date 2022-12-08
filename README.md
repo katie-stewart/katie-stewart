@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Katie Stewart. I'm an educator with an interest in code and technology. Welcome to my GitHub!
+
+- 🔭 I’m currently working on a personal website-coming soon!
+- 🌱 I’m currently learning CSS and Javascript
+- 👯 I’m looking to collaborate on projects that align tech and education
+- 💬 Ask me about the last book I read
+- 📫 How to reach me: katiestewartcodes@gmail.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: Gardening is my favorite hobby
 
 <!--
 **katie-stewart/katie-stewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
